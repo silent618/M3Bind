@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CT-CLIP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Retina_CLIP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/XRay_CLIP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/临时/CT-CLIP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/临时/MGCA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/临时/plip" vcs="Git" />
+  </component>
+</project>
